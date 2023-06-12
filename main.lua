@@ -27,7 +27,7 @@ function love.load(arg)
   tick.rate = .03
 
 end
-
+--wntjr
 function love.update(dt)
   tick.dt = dt
   page:update(dt, currentPage)
